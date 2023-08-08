@@ -1,2 +1,1 @@
-# ml-ops-qa-system
-ML-QA system
+# ML система поиска схожих вопросов
